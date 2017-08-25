@@ -13,3 +13,5 @@
 * Regression Models
 
 * Capstone
+
+Git is easy. Git is fun. Thanks Linus!
