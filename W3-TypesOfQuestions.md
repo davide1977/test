@@ -36,7 +36,7 @@ CORRELATION DOES NOT IMPLY CAUSATION!
 
 Exemple :  Analysis on effect on brain damages
 
-###Inferential
+### Inferential
 
 Goal : When you try to take a small amount of data on a small of small number of observation and try to generalize to a larger population
 
@@ -44,7 +44,7 @@ Inference is the most common goal of statistical models and involves estimating 
 
 Exemple : "Effect of Air Pollution Control on Life Expectancy" (did on 545 Counties of US...)... etc.
 
-###Predictive
+### Predictive
 
 More challenging than Inferential analysis
 
@@ -60,7 +60,7 @@ Predictions is very hard especially about the future (joke!)
 
 Examples : five thirty eight Forecast Blog / https://www.forbes.com/sites/kashmirhill/2012/02/16/how-target-figured-out-a-teen-girl-was-pregnant-before-her-father-did/#17790bfc6668
 
-###Causal
+### Causal
 
 Goal : what happens to one variable when you make another variable change
 
@@ -72,7 +72,7 @@ Casual models are the "gold standard" for data analysis
 
 Exemples : ...
 
-###Mechanistic
+### Mechanistic
 
 Goal : Understand the exact changes in variables that lead to changes in other variabbles for individual objects
 
