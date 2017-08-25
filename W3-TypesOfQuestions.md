@@ -1,6 +1,6 @@
 ## Types od Data Science Questions
 
-# In (Approximate) order of difficulty
+### In (Approximate) order of difficulty
 
 * Descriptive
 
