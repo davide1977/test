@@ -11,3 +11,5 @@
 * Statistical Inference
 
 * Regression Models
+
+* Capstone
