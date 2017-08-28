@@ -28,13 +28,13 @@ Exemple : Google Ngram Viewer / American Census website /
 
 The goal is to find relationship that you didn't know previously
 
-Good for discovering new connections or definind future studies
+Good for discovering new connections or definine future studies
 
 They are not final say and not should be used to generalize or predict
 
 CORRELATION DOES NOT IMPLY CAUSATION!
 
-Exemple :  Analysis on effect on brain damages
+Exemple :  Analysis on effect on brain of certains stimuli
 
 ### Inferential
 
@@ -74,7 +74,7 @@ Exemples : ...
 
 ### Mechanistic
 
-Goal : Understand the exact changes in variables that lead to changes in other variabbles for individual objects
+Goal : Understand the exact changes in variables that lead to changes in other variables for individual objects
 
 Very hard to infer, except in very simple situation
 
